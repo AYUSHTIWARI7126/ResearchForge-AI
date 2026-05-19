@@ -82,6 +82,15 @@ streamlit run app.py
 ```
 
 ---
+## Screenshots
+
+### Landing Page
+
+![Landing Page](screenshots/home.jpeg)
+
+### AI Generated Research Report
+
+![Research Report](screenshots/Report.jpeg)
 
 ## Author
 
